@@ -1,0 +1,6 @@
+-- Base measures. Financial measures should be built from invoice/payment facts
+-- after the full finance subledger and tax treatment are implemented.
+Total Units On Hand = SUM(Inventory[on_hand])
+Total Units Reserved = SUM(Inventory[reserved])
+Available Units = [Total Units On Hand] - [Total Units Reserved]
+Stock Movement Count = COUNTROWS(StockMovements)
