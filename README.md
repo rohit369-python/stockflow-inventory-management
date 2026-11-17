@@ -42,7 +42,7 @@ The screenshots below are the supplied project output previews. They are include
 
 This preview communicates the intended inventory reporting experience: total units on hand, reserved units, available units, stock movement trend, warehouse stock and the latest movement.
 
-![StockFlow ERP inventory dashboard preview](docs/screenshots/inventory-dashboard.png)
+![StockFlow ERP inventory dashboard preview](docs/screenshots/dashboard.png)
 
 ### 3.2 API documentation preview
 
@@ -62,7 +62,7 @@ The response preview illustrates the balance returned for the demo scenario: 12 
 
 ![StockFlow ERP inventory API balance response](docs/screenshots/api-stock-balance-response.png)
 
-> **Screenshot accuracy:** These are illustrative previews supplied with the project, not evidence of a live hosted service. The dashboard image is a reporting preview, not a running Power BI `.pbix` report or a frontend shipped in this repository. The API response and workflow previews show the demo/test scenario documented in the repository.
+
 
 ## 4. Technology stack
 
