@@ -2,10 +2,6 @@
 
 > A modular, multi-tenant ERP backend built with **Python, FastAPI, SQLAlchemy and PostgreSQL**, with an inventory ledger, REST APIs, automated tests and starter Power BI reporting assets.
 
-**Project type:** Full Stack Python Developer portfolio project  
-**Current implementation:** Backend-first ERP foundation with API documentation and illustrative reporting previews  
-**Version:** `0.1.0`
-
 ---
 
 ## 1. Why I built this project
@@ -713,9 +709,4 @@ The project currently demonstrates backend engineering more substantially than f
 **Rohit Kumar**  
 Full Stack Python Software Developer
 
-- GitHub: [github.com/rohitkumar-ds](https://github.com/rohitkumar-ds)
-- LinkedIn: [linkedin.com/in/rohit-369abc](https://www.linkedin.com/in/rohit-369abc)
-
 ---
-
-*StockFlow ERP is an educational and portfolio project. It is not presented as a fully production-hardened ERP or as a certified accounting/tax-compliance system.*
